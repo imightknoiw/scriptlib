@@ -1180,7 +1180,7 @@ end)
 MainSection:NewButton("Touch fling", "touch players to fling them", function()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/obf_5wpM7bBcOPspmX7lQ3m75SrYNWqxZ858ai3tJdEAId6jSI05IOUB224FQ0VSAswH.lua.txt'),true))()
 end)
-if game.PlaceId == then
+if game.PlaceId == 142823291 then
 MainSection:NewButton("MM2 ESP", "ESP for MM2", function()
 --[[
     Credits to REAL katana for the Role getter 
